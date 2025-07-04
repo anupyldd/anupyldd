@@ -14,6 +14,7 @@ Currently, I'm exploring the field of computer graphics while working on a Direc
   - custom assertions and exceptions
   - a logger
   - a timer
+- [Garibenka](https://otdd.itch.io/garibenka) - desktop application for studying Japanese vocabulary
 - [Titan Engine tutorials](https://youtube.com/playlist?list=PLMm0iS8bfnlWMx-c7T3LWPZN1JVzLAI5G&si=6AZQIGviLuGtbZUL) - a tutorial series on the Esenthel Titan game engine that goes from setup to creating a character controller.
 
 ---
