@@ -1,9 +1,7 @@
 Hi, my name is Dmitry and I'm primarily a C++ programmer. I enjoy creating clean, efficient libraries and tools that are easy to integrate and use.
 
-Currently, I'm exploring the field of computer graphics while working on a DirectX framework.
-
 #### Languages & Tools
-- C++, Python  
+- C++, Python, C#  
 - STL, CMake, raylib, ImGui, Esenthel Titan, pandas
 
 #### Projects
