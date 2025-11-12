@@ -7,7 +7,8 @@ Hi, my name is Dmitry and I'm primarily a C++ programmer. I enjoy creating clean
 #### Projects
 - [dough](https://github.com/anupyldd/dough) – a C++20 testing library  
 - [pico_ecs cpp](https://github.com/anupyldd/pico-ecs-cpp) – a C++ wrapper for the [pico_ecs](https://github.com/empyreanx/pico_headers/blob/main/pico_ecs.h) Entity Component System library  
-- [loc](https://github.com/anupyldd/loc) – a tiny utility for managing localization  
+- [loc](https://github.com/anupyldd/loc) – a tiny utility for managing localization
+- [Wizard's Keep](https://github.com/anupyldd/WizardsKeep) - a Magica-inspired action game prototype made with Titan game engine
 - [utility](https://github.com/anupyldd/utility) – a set of utility headers, including:
   - custom assertions and exceptions
   - a logger
