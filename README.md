@@ -1,8 +1,8 @@
 Hi, my name is Dmitry and I'm primarily a C++ programmer. I enjoy creating clean, efficient libraries and tools that are easy to integrate and use.
 
 #### Languages & Tools
-- C++, Python, C#  
-- STL, CMake, raylib, ImGui, Esenthel Titan, pandas
+- C++, Python, C#, Lua  
+- STL, CMake, raylib, ImGui, Esenthel Titan, pandas, Unity, Roblox Studio
 
 #### Projects
 - [dough](https://github.com/anupyldd/dough) – a C++20 testing library  
