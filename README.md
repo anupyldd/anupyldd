@@ -15,7 +15,12 @@ Hi, my name is Dmitry and I'm primarily a C++ programmer. I enjoy creating clean
   - a logger
   - a timer
 - [PicoJSON Serialization](https://github.com/anupyldd/picojson-serialization) - helper for simplifying JSON serialization/deserialization using PicoJSON, and a [blogpost](https://outdoordoor.bearblog.dev/extending-picojson-for-easier-serialization-and-deserialization/) describing the implementation
-- [Titan Engine tutorials](https://youtube.com/playlist?list=PLMm0iS8bfnlWMx-c7T3LWPZN1JVzLAI5G&si=6AZQIGviLuGtbZUL) - a tutorial series on the Esenthel Titan game engine that goes from setup to creating a character controller.
+
+#### Blogposts
+- [Extending PicoJSON for easier serialization and deserialization](https://outdoordoor.bearblog.dev/extending-picojson-for-easier-serialization-and-deserialization/)
+
+#### Other Content
+- [Titan Engine tutorials](https://youtube.com/playlist?list=PLMm0iS8bfnlWMx-c7T3LWPZN1JVzLAI5G&si=6AZQIGviLuGtbZUL) - a tutorial series on the Esenthel Titan game engine that covers the basics of the engine
 
 ---
 
