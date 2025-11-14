@@ -18,6 +18,7 @@ Hi, my name is Dmitry and I'm primarily a C++ programmer. I enjoy creating clean
 
 #### Blogposts
 - [Extending PicoJSON for easier serialization and deserialization](https://outdoordoor.bearblog.dev/extending-picojson-for-easier-serialization-and-deserialization/)
+- [Macro-free unit-testing framework in modern C++](https://outdoordoor.bearblog.dev/modern-macro-free-unit-testing-framework-in-c/)
 
 #### Other Content
 - [Titan Engine tutorials](https://youtube.com/playlist?list=PLMm0iS8bfnlWMx-c7T3LWPZN1JVzLAI5G&si=6AZQIGviLuGtbZUL) - a tutorial series on the Esenthel Titan game engine that covers the basics of the engine
