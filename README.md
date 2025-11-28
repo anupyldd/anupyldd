@@ -1,9 +1,3 @@
-Hi, my name is Dmitry and I'm primarily a C++ programmer. I enjoy creating clean, efficient libraries and tools that are easy to integrate and use.
-
-#### Languages & Tools
-- C++, Python, C#, Lua  
-- STL, CMake, raylib, ImGui, Esenthel Titan, pandas, Unity, Roblox Studio
-
 #### Projects
 - [dough](https://github.com/anupyldd/dough) – a C++20 testing library  
 - [pico_ecs cpp](https://github.com/anupyldd/pico-ecs-cpp) – a C++ wrapper for the [pico_ecs](https://github.com/empyreanx/pico_headers/blob/main/pico_ecs.h) Entity Component System library
