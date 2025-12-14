@@ -10,7 +10,7 @@
 - [Garibenka](https://otdd.itch.io/garibenka) - desktop application for studying Japanese vocabulary
 - [utility](https://github.com/anupyldd/utility) – a set of utility headers, including custom assertions and exceptions, a logger, and a timer
 - [PicoJSON Serialization](https://github.com/anupyldd/picojson-serialization) - helper for simplifying JSON serialization/deserialization with [PicoJSON](https://github.com/kazuho/picojson)
-- 
+
 #### Blogposts
 - [Exploring macro-free testing in modern C++](https://outdoordoor.bearblog.dev/exploring-macro-free-testing-in-modern-cpp/)
 - [Macro-free unit-testing framework in modern C++](https://outdoordoor.bearblog.dev/modern-macro-free-unit-testing-framework-in-c/)
