@@ -2,14 +2,14 @@
 - [nmtest](https://github.com/anupyldd/nmtest) - macro-free unit-testing framework in modern C++
 - [dough](https://github.com/anupyldd/dough) – a C++20 testing library  
 - [pico_ecs cpp](https://github.com/anupyldd/pico-ecs-cpp) – a C++ wrapper for the [pico_ecs](https://github.com/empyreanx/pico_headers/blob/main/pico_ecs.h) Entity Component System library
-- [loc](https://github.com/anupyldd/loc) – a tiny utility for managing localization
-
+- [rwr](https://github.com/anupyldd/rwr) - source code for the Recreational Wheel Reinvention series
 
 #### Older Projects
 - [Wizard's Keep](https://github.com/anupyldd/WizardsKeep) - prototype of a Magica-inspired action game made with Titan game engine
 - [Garibenka](https://otdd.itch.io/garibenka) - desktop application for studying Japanese vocabulary
 - [utility](https://github.com/anupyldd/utility) – a set of utility headers, including custom assertions and exceptions, a logger, and a timer
 - [PicoJSON Serialization](https://github.com/anupyldd/picojson-serialization) - helper for simplifying JSON serialization/deserialization with [PicoJSON](https://github.com/kazuho/picojson)
+- [loc](https://github.com/anupyldd/loc) – a tiny utility for managing localization
 
 #### Blogposts
 - [Exploring macro-free testing in modern C++](https://outdoordoor.bearblog.dev/exploring-macro-free-testing-in-modern-cpp/)
