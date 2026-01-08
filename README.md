@@ -12,6 +12,7 @@
 - [loc](https://github.com/anupyldd/loc) – a tiny utility for managing localization
 
 #### Blogposts
+- [Optional - Recreational Wheel Reinvention](https://outdoordoor.bearblog.dev/optional-rwr/)
 - [Exploring macro-free testing in modern C++](https://outdoordoor.bearblog.dev/exploring-macro-free-testing-in-modern-cpp/)
 - [Macro-free unit-testing framework in modern C++](https://outdoordoor.bearblog.dev/modern-macro-free-unit-testing-framework-in-c/)
 - [Extending PicoJSON for easier serialization and deserialization](https://outdoordoor.bearblog.dev/extending-picojson-for-easier-serialization-and-deserialization/)
