@@ -19,6 +19,7 @@
 
 #### Other Content
 - [Titan Engine tutorials](https://youtube.com/playlist?list=PLMm0iS8bfnlWMx-c7T3LWPZN1JVzLAI5G&si=6AZQIGviLuGtbZUL) - a tutorial series on the Esenthel Titan game engine that covers the basics of the engine
+- [MakeCode Minecraft Docs](https://github.com/anupyldd/MakeCode-Minecraft-Docs) - documenation for Minecraft Education MakeCode
 
 ---
 
