@@ -3,6 +3,7 @@
 - [dough](https://github.com/anupyldd/dough) – a C++20 testing library  
 - [pico_ecs cpp](https://github.com/anupyldd/pico-ecs-cpp) – a C++ wrapper for the [pico_ecs](https://github.com/empyreanx/pico_headers/blob/main/pico_ecs.h) Entity Component System library
 - [rwr](https://github.com/anupyldd/rwr) - source code for the Recreational Wheel Reinvention series
+- [LessonAssist](https://github.com/anupyldd/lessonassist) - MakeCode extension for Minecraft Education
 
 #### Older Projects
 - [Wizard's Keep](https://github.com/anupyldd/WizardsKeep) - prototype of a Magica-inspired action game made with Titan game engine
