@@ -4,9 +4,11 @@
 - [pico_ecs cpp](https://github.com/anupyldd/pico-ecs-cpp) – a C++ wrapper for the [pico_ecs](https://github.com/empyreanx/pico_headers/blob/main/pico_ecs.h) Entity Component System library
 - [rwr](https://github.com/anupyldd/rwr) - source code for the Recreational Wheel Reinvention series
 - [LessonAssist](https://github.com/anupyldd/lessonassist) - MakeCode extension for Minecraft Education
+- [esenthel-snippets](https://github.com/anupyldd/esenthel-snippets) - useful code snippets for the Esenthel Titan game engine
 
 #### Older Projects
 - [Wizard's Keep](https://github.com/anupyldd/WizardsKeep) - prototype of a Magica-inspired action game made with Titan game engine
+- [dot3d](https://github.com/anupyldd/dot3d) - basic DirectX 11 renderer
 - [Garibenka](https://otdd.itch.io/garibenka) - desktop application for studying Japanese vocabulary
 - [utility](https://github.com/anupyldd/utility) – a set of utility headers, including custom assertions and exceptions, a logger, and a timer
 - [PicoJSON Serialization](https://github.com/anupyldd/picojson-serialization) - helper for simplifying JSON serialization/deserialization with [PicoJSON](https://github.com/kazuho/picojson)
